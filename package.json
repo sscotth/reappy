@@ -1,5 +1,5 @@
 {
-  "author": "Your Name Here",
+  "author": "Scott <scott@sscotth.io>",
   "name": "reappy",
   "repository": "",
   "description": "",
@@ -13,5 +13,14 @@
   "dependencies": {
     "react": "^0.13.2",
     "reapp-kit": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sscotth/reappy.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sscotth/reappy/issues"
+  },
+  "homepage": "https://github.com/sscotth/reappy#readme"
 }
